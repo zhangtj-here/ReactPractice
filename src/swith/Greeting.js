@@ -4,7 +4,7 @@ import GuestGreeting from './GuestGreeting'
 
 class Greeting extends React.Component {
   constructor(props) {
-    super(props);
+    super(props)
   }
 
   render() {
